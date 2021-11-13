@@ -100,13 +100,13 @@
 	<footer class="row noir">
 		<div class="container">
 Contactez-nous via: 
-			<a href="http://www.facebook.com/Amissi.Hassan" target="_blank" class="normaltip"><img src="image/icon1.gif" class="img-circle" title="Facebook"></a>
-			<a href="http://www.twitter.com/Jospin Amissi" class="normaltip"><img src="image/icon2.gif" class="img-circle" title="Twitter"></a>
-		<a href="http://www.linked.com/Amissi Hassan" class="normaltip"><img src="image/icon3.gif" class="img-circle" title="Linkedin"></a>       
+			<a href="https://www.facebook.com/Amissi.Hassan" target="_blank" class="normaltip"><img src="image/icon1.gif" class="img-circle" title="Facebook"></a>
+			<a href="https://www.twitter.com/JospinAmissi" class="normaltip"><img src="image/icon2.gif" class="img-circle" title="Twitter"></a>
+		<a href="https://www.linkedin.com/in/amisi-hassan-jospin-1405a442/" class="normaltip"><img src="image/icon3.gif" class="img-circle" title="Linkedin"></a>       
 		<hr/>
 <p>		  
-	<span class="glyphicon glyphicon-copyright-mark"></span> Copyright 2017 <a href=http://"www.jospinamissi.org">Jospin Amissi</a> Tous droits réservés<br/>
-	Designed by <a href=http://"www.jospinamissi.org">Jospin Amissi</a>
+	<span class="glyphicon glyphicon-copyright-mark"></span> Copyright 2022 <a href=http://"www.jospinamissi.org">Jospin Amissi</a> Tous droits réservés<br/>
+	Designed by <a href="https://jospinamisi.herokuapp.com/">Jospin Amissi</a>
 </p>
 
 		</div>		
