@@ -21,7 +21,7 @@
 <div id="page">
 	<nav class="navbar navbar-inverse navbar-fixed-top">
 		<ul class="nav navbar-nav">
-			<li><a href="index.php"><span class="glyphicon glyphicon-home"></span> Accueil</span></a></li>
+			<li><a href="index.php"><span class="glyphicon glyphicon-home"></span> Accueil</a></li>
 			<li class="active"><a href="propos.php"><span class="glyphicon glyphicon-user"></span> A Propos</a></li>
 			<li><a href="folio.php?gallery=1"><span class="glyphicon glyphicon-picture"></span> Folio</a></li>
 			<li><a href="contact.php"><span class="glyphicon glyphicon-phone"></span> Contacts</a></li>
@@ -88,7 +88,7 @@ Contactez-nous via:
 		<a href="https://www.linkedin.com/in/amisi-hassan-jospin-1405a442/" class="normaltip"><img src="image/icon3.gif" class="img-circle" title="Linkedin"></a>       
 		<hr/>
 <p>		  
-	<span class="glyphicon glyphicon-copyright-mark"></span> Copyright 2017 <a href=http://"www.jospinamissi.org">Jospin Amissi</a> Tous droits réservés<br/>
+	<span class="glyphicon glyphicon-copyright-mark"></span> Copyright 2022 <a href=http://"www.jospinamissi.org">Jospin Amissi</a> Tous droits réservés<br/>
 	Designed by <a href="https://jospinamisi.herokuapp.com/">Jospin Amissi</a>
 </p>
 
